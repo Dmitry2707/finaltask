@@ -1,0 +1,15 @@
+/Users/dmitrij/Desktop/gb/final/finaltask/bin/Debug/net6.0/finaltask
+/Users/dmitrij/Desktop/gb/final/finaltask/bin/Debug/net6.0/finaltask.deps.json
+/Users/dmitrij/Desktop/gb/final/finaltask/bin/Debug/net6.0/finaltask.runtimeconfig.json
+/Users/dmitrij/Desktop/gb/final/finaltask/bin/Debug/net6.0/finaltask.dll
+/Users/dmitrij/Desktop/gb/final/finaltask/bin/Debug/net6.0/finaltask.pdb
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.csproj.AssemblyReference.cache
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.AssemblyInfoInputs.cache
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.AssemblyInfo.cs
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.dll
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/refint/finaltask.dll
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.pdb
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/finaltask.genruntimeconfig.cache
+/Users/dmitrij/Desktop/gb/final/finaltask/obj/Debug/net6.0/ref/finaltask.dll
