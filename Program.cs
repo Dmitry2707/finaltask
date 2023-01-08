@@ -1,4 +1,5 @@
-﻿string[] array1 = new string[6] {"123", "23", "321", "rm", "mc","555"};
+﻿Console.WriteLine("Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма.");
+string[] array1 = new string[5] {"123456", "23", "final task", "hello world","555"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
